@@ -1,0 +1,14 @@
+.textfield {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 200px;
+}
+
+.typography {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px
+}
